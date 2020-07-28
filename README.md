@@ -3,14 +3,14 @@
 ## What is CodeIgniter?
 
 > Database Notes:
+
 *) database name is => login
 *) tables are => [
      id -> int (primary & auto increments)
      firstname -> varchar
      lastname -> varchar
      email -> varchar
-     password -> varchar
-     
+     password -> varchar   
   ]
 
 CodeIgniter is a PHP full-stack web framework that is light, fast, flexible, and secure. 
