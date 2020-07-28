@@ -4,8 +4,8 @@
 
 > Database Notes:
 
-*) database name is => login
-*) tables are => [
+* database name is => login
+* tables are => [
      id -> int (primary & auto increments)
      firstname -> varchar
      lastname -> varchar
